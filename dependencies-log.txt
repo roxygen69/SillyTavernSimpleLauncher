@@ -1,0 +1,10 @@
+[Mon 06/05/2023 22:03:26.74] Chocolatey is installed. 
+[Mon 06/05/2023 22:03:26.80] Git is installed. 
+[Mon 06/05/2023 22:03:26.87] NVM is installed. 
+[Mon 06/05/2023 22:03:26.92] Node.js 18 is installed. 
+[Mon 06/05/2023 22:03:26.96] Python 10 is installed. 
+[Mon 06/05/2023 22:03:27.08] Tkinter is installed. 
+[Mon 06/05/2023 22:03:27.16] pyperclip is not installed. Run "OptmizePrompt Gui" to install. 
+[Mon 06/05/2023 22:03:27.25] nltk is not installed. Run "OptmizePrompt Gui" to install. 
+[Mon 06/05/2023 22:03:27.34] Pillow is installed. 
+[Mon 06/05/2023 22:03:27.34] Dependencies check complete. 
